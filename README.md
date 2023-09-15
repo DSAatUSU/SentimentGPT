@@ -8,7 +8,7 @@
 
 If you use the code or ideas from this repository, please cite the following papers.
 
-### Complete version
+#### Full version
 @article{kheiri2023sentimentgpt,
   title={SentimentGPT: Exploiting GPT for Advanced Sentiment Analysis and its Departure from Current Machine Learning},
   author={Kheiri, Kiana and Karimi, Hamid},
@@ -16,7 +16,7 @@ If you use the code or ideas from this repository, please cite the following pap
   year={2023}
 }
 
-### Conference version
+#### Conference version
 
 @inproceedings{karimi2022decision,
   title={SentimentGPT: Leveraging GPT for Advancing
@@ -29,5 +29,5 @@ Sentiment Analysis},
 
 
 ## Contact
-Web page: [www.hamidkarimi.com](http://www.hamidkarimi.com)
+Web page: [https://dsa.cs.usu.edu/contact.html](https://dsa.cs.usu.edu/contact.html)
 Email: [hamid.karimi@usu.edu](hamid.karimi@usu.edu)
