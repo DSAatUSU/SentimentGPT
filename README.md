@@ -18,7 +18,7 @@ If you use the code or ideas from this repository, please cite the following pap
 
 #### Conference version
 
-@inproceedings{karimi2022decision,
+@inproceedings{kheiri2023icmla,
   title={SentimentGPT: Leveraging GPT for Advancing
 Sentiment Analysis},
   author={Kheiri, Kiana and Karimi, Hamid},
