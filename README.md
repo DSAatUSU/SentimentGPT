@@ -6,7 +6,7 @@
 
 ## Citation
 
-If you use the code or ideas from this repository, please cite the following papers.
+If you use the code or ideas from this repository, please cite the following paper.
 
 
 @article{kheiri2023sentimentgpt,
