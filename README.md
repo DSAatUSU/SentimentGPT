@@ -9,12 +9,14 @@
 If you use the code or ideas from this repository, please cite the following paper.
 
 
-@article{kheiri2023sentimentgpt,
-  title={SentimentGPT: Exploiting GPT for Advanced Sentiment Analysis and its Departure from Current Machine Learning},
+@INPROCEEDINGS{kheiri2023sentimentgpt,
   author={Kheiri, Kiana and Karimi, Hamid},
-  journal={arXiv preprint arXiv:2307.10234},
-  year={2023}
-}
+  booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
+  title={SentimentGPT: Leveraging GPT for Advancing Sentiment Analysis}, 
+  year={2024},
+  pages={7051-7060},
+  keywords={Sentiment analysis;Analytical models;Codes;Media;Big Data;Transformers;Data models;Complexity theory;Prompt engineering;Sentiment Analysis;Social Media Mining;Chat-GPT;Large Language Models;Machine Learning},
+  doi={10.1109/BigData62323.2024.10825350}}
 
 
 
